@@ -82,7 +82,7 @@ theme: next
 deploy:
   type: git
   repo: 
-    github: git@120.78.150.230:/home/git/repo/blog.git
+    github: git@167.71.76.104:/opt/blog/hexoblog.git
 #github: git@github.com:a574751346/a574751346.github.io.git
     coding: git@git.coding.net:a574751346/a574751346.git   
   branch: master
