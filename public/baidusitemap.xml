@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://meramy.top/2019/11/11/TCP%E7%8A%B6%E6%80%81%E8%BD%AC%E6%8D%A2/</loc>
+    <lastmod>2019-11-11T15:49:52.966Z</lastmod>
+    <data>
+        <display>
+        <title>TCP状态转换</title>
+        <pubTime>2019-11-11T15:48:00.000Z</pubTime>
+        
+        <tag>TCP</tag>
+         
+        <tag>SOCKET</tag>
+         
+        <tag>计算机网络</tag>
+         
+        <tag>TIME_WAIT</tag>
+         
+        <tag>netstat</tag>
+         
+         
+           
+             
+              <breadCrumb title="计算机网络" url="http://meramy.top/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://meramy.top/2019/11/11/%E5%8A%A0%E8%A7%A3%E5%AF%86%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2019-11-11T15:46:42.072Z</lastmod>
+    <data>
+        <display>
+        <title>加解密算法</title>
+        <pubTime>2019-11-11T13:56:00.000Z</pubTime>
+        
+        <tag>加密</tag>
+         
+        <tag>哈希</tag>
+         
+        <tag>AES</tag>
+         
+         
+           
+             
+              <breadCrumb title="爬虫" url="http://meramy.top/categories/%E7%88%AC%E8%99%AB/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://meramy.top/2019/11/11/%E6%B3%9B%E5%9E%8B%E7%BC%96%E7%A8%8B-generic-programming-%E4%B8%8E%E6%A8%A1%E6%9D%BF-template-%E7%BC%96%E7%A8%8B/</loc>
+    <lastmod>2019-11-11T15:45:48.040Z</lastmod>
+    <data>
+        <display>
+        <title>泛型编程(generic programming)与模板(template)编程</title>
+        <pubTime>2019-11-11T13:57:00.000Z</pubTime>
+        
+        <tag>C++</tag>
+         
+         
+           
+             
+              <breadCrumb title="C++" url="http://meramy.top/categories/C/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://meramy.top/2019/11/11/%E7%BA%BF%E7%A8%8B%E6%B1%A0%E4%B8%AD%E5%A6%82%E4%BD%95%E7%A1%AE%E5%AE%9A%E4%BD%BF%E7%94%A8%E7%9A%84%E7%BA%BF%E7%A8%8B%E6%95%B0/</loc>
+    <lastmod>2019-11-11T15:44:57.059Z</lastmod>
+    <data>
+        <display>
+        <title>线程池中如何确定使用的线程数</title>
+        <pubTime>2019-11-11T13:57:00.000Z</pubTime>
+        
+        <tag>多线程</tag>
+         
+         
+           
+             
+              <breadCrumb title="爬虫" url="http://meramy.top/categories/%E7%88%AC%E8%99%AB/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://meramy.top/2019/11/11/C-%E5%88%A4%E6%96%AD%E5%8F%98%E9%87%8F%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</loc>
+    <lastmod>2019-11-11T13:56:25.940Z</lastmod>
+    <data>
+        <display>
+        <title>C++ 判断变量数据类型</title>
+        <pubTime>2019-11-11T13:56:25.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://meramy.top/2019/11/11/C-Primer%EF%BC%9Achapter-2-variables-and-base-data-types/</loc>
+    <lastmod>2019-11-11T13:56:01.248Z</lastmod>
+    <data>
+        <display>
+        <title>C++ Primer：chapter 2 variables and base data types</title>
+        <pubTime>2019-11-11T13:56:00.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://meramy.top/2019/11/11/C-Primer-start/</loc>
+    <lastmod>2019-11-11T13:55:35.832Z</lastmod>
+    <data>
+        <display>
+        <title>C++ Primer : start</title>
+        <pubTime>2019-11-11T13:55:35.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://meramy.top/2019/11/11/%E5%BC%BA%E7%B1%BB%E5%9E%8B%E3%80%81%E5%BC%B1%E7%B1%BB%E5%9E%8B%E8%AF%AD%E8%A8%80%EF%BC%8C%E9%9D%99%E6%80%81%E3%80%81%E5%8A%A8%E6%80%81%E8%AF%AD%E8%A8%80/</loc>
+    <lastmod>2019-11-11T13:55:09.612Z</lastmod>
+    <data>
+        <display>
+        <title>强类型、弱类型语言，静态、动态语言</title>
+        <pubTime>2019-11-11T13:55:08.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://meramy.top/2019/11/11/type-traits%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/</loc>
+    <lastmod>2019-11-11T13:54:46.959Z</lastmod>
+    <data>
+        <display>
+        <title>__type_traits是什么？</title>
+        <pubTime>2019-11-11T13:54:46.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://meramy.top/2019/11/11/STL%E6%BA%90%E7%A0%81%E4%B9%8B%E7%A9%BA%E9%97%B4%E9%85%8D%E7%BD%AE%E5%99%A8/</loc>
+    <lastmod>2019-11-11T13:53:05.538Z</lastmod>
+    <data>
+        <display>
+        <title>STL源码之空间配置器</title>
+        <pubTime>2019-11-11T13:53:04.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://meramy.top/2019/01/13/Natural-Language-Processing/</loc>
+    <lastmod>2019-11-11T13:17:11.675Z</lastmod>
+    <data>
+        <display>
+        <title>Natural Language Processing（1）</title>
+        <pubTime>2019-01-13T09:32:04.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://meramy.top/2018/07/20/Python%E4%B8%8B%E7%9A%84%E6%96%87%E4%BB%B6%E8%AF%BB%E5%86%99%E6%93%8D%E4%BD%9C/</loc>
+    <lastmod>2019-11-11T13:17:11.675Z</lastmod>
+    <data>
+        <display>
+        <title>Python下的文件读写操作</title>
+        <pubTime>2018-07-20T08:04:00.000Z</pubTime>
+        
+        <tag>python</tag>
+         
+        <tag>file operate</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="http://meramy.top/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://meramy.top/2018/07/19/hello-world/</loc>
+    <lastmod>2019-11-11T13:17:11.675Z</lastmod>
+    <data>
+        <display>
+        <title>小林子的第一封家书</title>
+        <pubTime>2018-07-19T07:20:00.000Z</pubTime>
+        
+        <tag>家书</tag>
+         
+         
+           
+             
+              <breadCrumb title="家书" url="http://meramy.top/categories/%E5%AE%B6%E4%B9%A6/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://meramy.top/2018/07/23/k-%E8%BF%91%E9%82%BB%E7%AE%97%E6%B3%95%E5%B0%8F%E7%BB%93%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2019-11-11T13:17:11.675Z</lastmod>
+    <data>
+        <display>
+        <title>k-近邻算法小结笔记</title>
+        <pubTime>2018-07-23T04:45:00.000Z</pubTime>
+        
+        <tag>机器学习实战</tag>
+         
+         
+           
+             
+              <breadCrumb title="机器学习" url="http://meramy.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://meramy.top/2018/07/20/win10%E7%B3%BB%E7%BB%9F%E4%B8%8B%E7%AB%AF%E5%8F%A3%E5%8D%A0%E7%94%A8/</loc>
+    <lastmod>2019-11-11T13:17:11.675Z</lastmod>
+    <data>
+        <display>
+        <title>【win10】端口已被占用</title>
+        <pubTime>2018-07-20T10:50:00.000Z</pubTime>
+        
+        <tag>操作系统</tag>
+         
+        <tag>win10</tag>
+         
+        <tag>端口</tag>
+         
+         
+           
+             
+              <breadCrumb title="操作系统" url="http://meramy.top/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://meramy.top/2019/03/03/%E4%BB%8E%E9%9B%B6%E6%9E%84%E5%BB%BA%E4%B8%80%E4%B8%AA%E9%97%AE%E7%AD%94%E7%B3%BB%E7%BB%9F/</loc>
+    <lastmod>2019-11-11T13:17:11.675Z</lastmod>
+    <data>
+        <display>
+        <title>从零构建一个问答系统</title>
+        <pubTime>2019-03-03T03:36:20.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+    
+    
+</urlset>
